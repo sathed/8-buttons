@@ -19,9 +19,8 @@
 }
 
 .fight-stick .a {
-  background: url(https://github.com/sathed/8-buttons/raw/master/img/A.png);
+  background: url(https://github.com/sathed/8-buttons/raw/master/img/A.png) no-repeat, #333333;
   background-color: inherit;
-  background-repeat: no-repeat;
   background-position: center;
 }
 
