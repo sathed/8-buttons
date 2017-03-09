@@ -9,3 +9,35 @@
 .fight-stick .quadrant {
 	font-size: 0px;
 }
+
+.fight-stick .x {
+  content: "X";
+}
+
+.fight-stick .y {
+  content: "Y";
+}
+
+.fight-stick .a {
+  content: "A";
+}
+
+.fight-stick .b {
+  content: "B";
+}
+
+.fight-stick .bumper.right {
+  content: "R1";
+}
+
+.fight-stick .bumper.left {
+  content: "L1";
+}
+
+.fight-stick .trigger-button.right {
+  content: "R2";
+}
+
+.fight-stick .trigger-button.left {
+  content: "L2";
+}
