@@ -19,7 +19,7 @@
 }
 
 .fight-stick .a {
-  background-image: "https://github.com/sathed/8-buttons/raw/master/img/A.png";
+  background-image: url(https://github.com/sathed/8-buttons/raw/master/img/A.png);
   background-repeat: no-repeat;
   background-position: center;
 }
