@@ -12,78 +12,78 @@
 
 .fight-stick .x {
   /*XBOX Controller*/
-  /*background-image: url(https://github.com/sathed/8-buttons/raw/master/img/X.png) center no-repeat, #333333;*/
+  /*background: url(https://github.com/sathed/8-buttons/raw/master/img/X.png) center no-repeat, #333333;*/
 
   /*PS3/4 Controller*/
-  /*background-image: url(https://github.com/sathed/8-buttons/raw/master/img/square.png) center no-repeat, #333333;*/
+  /*background: url(https://github.com/sathed/8-buttons/raw/master/img/square.png) center no-repeat, #333333;*/
 
   /*Light Punch*/
-  background-image: url(https://github.com/sathed/8-buttons/raw/master/img/LP.png) center no-repeat, #333333;
+  background: url(https://github.com/sathed/8-buttons/raw/master/img/LP.png) center no-repeat, #333333;
   background-position: center;
 }
 
 .fight-stick .y {
   /*XBOX Controller*/
-  /*background-image: url(https://github.com/sathed/8-buttons/raw/master/img/Y.png) center no-repeat, #333333;*/
+  /*background: url(https://github.com/sathed/8-buttons/raw/master/img/Y.png) center no-repeat, #333333;*/
 
   /*PS3/4 Controller*/
-  /*background-image: url(https://github.com/sathed/8-buttons/raw/master/img/triangle.png) center no-repeat, #333333;*/
+  /*background: url(https://github.com/sathed/8-buttons/raw/master/img/triangle.png) center no-repeat, #333333;*/
 
   /*Medium Punch*/
-  background-image: url(https://github.com/sathed/8-buttons/raw/master/img/MP.png) center no-repeat, #333333;
+  background: url(https://github.com/sathed/8-buttons/raw/master/img/MP.png) center no-repeat, #333333;
   background-position: center;
 }
 
 .fight-stick .bumper.right {
   /*Controller*/
-  /*background-image: url(https://github.com/sathed/8-buttons/raw/master/img/R1.png) center no-repeat, #333333;*/
+  /*background: url(https://github.com/sathed/8-buttons/raw/master/img/R1.png) center no-repeat, #333333;*/
 
   /*Hard Punch*/
-  background-image: url(https://github.com/sathed/8-buttons/raw/master/img/HP.png) center no-repeat, #333333;
+  background: url(https://github.com/sathed/8-buttons/raw/master/img/HP.png) center no-repeat, #333333;
   background-position: center;
 }
 
 .fight-stick .bumper.left {
-  background-image: url(https://github.com/sathed/8-buttons/raw/master/img/L1.png) center no-repeat, #333333;
+  background: url(https://github.com/sathed/8-buttons/raw/master/img/L1.png) center no-repeat, #333333;
   background-position: center;
 }
 
 .fight-stick .a {
   /*XBOX Controller*/
-  /*background-image: url(https://github.com/sathed/8-buttons/raw/master/img/A.png) center no-repeat, #333333;*/
+  /*background: url(https://github.com/sathed/8-buttons/raw/master/img/A.png) center no-repeat, #333333;*/
 
   /*PS3/4 Controller*/
-  /*background-image: url(https://github.com/sathed/8-buttons/raw/master/img/psx.png) center no-repeat, #333333;*/
+  /*background: url(https://github.com/sathed/8-buttons/raw/master/img/psx.png) center no-repeat, #333333;*/
 
   /*Light Kick*/
-  background-image: url(https://github.com/sathed/8-buttons/raw/master/img/LK.png) center no-repeat, #333333;
+  background: url(https://github.com/sathed/8-buttons/raw/master/img/LK.png) center no-repeat, #333333;
   background-position: center;
 }
 
 .fight-stick .b {
   /*XBOX Controller*/
-  /*background-image: url(https://github.com/sathed/8-buttons/raw/master/img/B.png) center no-repeat, #333333;*/
+  /*background: url(https://github.com/sathed/8-buttons/raw/master/img/B.png) center no-repeat, #333333;*/
 
   /*PS3/4 Controller*/
-  /*background-image: url(https://github.com/sathed/8-buttons/raw/master/img/circle.png) center no-repeat, #333333;*/
+  /*background: url(https://github.com/sathed/8-buttons/raw/master/img/circle.png) center no-repeat, #333333;*/
 
   /*Medium Kick*/
-  background-image: url(https://github.com/sathed/8-buttons/raw/master/img/MK.png) center no-repeat, #333333;
+  background: url(https://github.com/sathed/8-buttons/raw/master/img/MK.png) center no-repeat, #333333;
   background-position: center;
 }
 
 .fight-stick .trigger-button.right {
   /*XBOX Controller*/
-  /*background-image: url(https://github.com/sathed/8-buttons/raw/master/img/R2.png) center no-repeat, #333333;*/
+  /*background: url(https://github.com/sathed/8-buttons/raw/master/img/R2.png) center no-repeat, #333333;*/
 
   /*PS3/4 Controller*/
 
   /*Hard Kick*/
-  background-image: url(https://github.com/sathed/8-buttons/raw/master/img/HK.png) center no-repeat, #333333;
+  background: url(https://github.com/sathed/8-buttons/raw/master/img/HK.png) center no-repeat, #333333;
   background-position: center;
 }
 
 .fight-stick .trigger-button.left {
-  background-image: url(https://github.com/sathed/8-buttons/raw/master/img/L2.png) center no-repeat, #333333;
+  background: url(https://github.com/sathed/8-buttons/raw/master/img/L2.png) center no-repeat, #333333;
   background-position: center;
 }
