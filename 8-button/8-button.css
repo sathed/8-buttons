@@ -12,7 +12,6 @@
 
 .fight-stick .x {
   content: "X";
-  color: white;
 }
 
 .fight-stick .y {
@@ -21,6 +20,7 @@
 
 .fight-stick .a {
   background: url(https://github.com/sathed/8-buttons/raw/master/img/A.png) no-repeat, #333333;
+  background-position: center;
 }
 
 .fight-stick .b {
